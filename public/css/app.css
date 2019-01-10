@@ -1,0 +1,41 @@
+section{
+
+	background: #b0dce9;
+	background: -webkit-linear-gradient(75deg, #61799D 40%, #548FAA 60%);
+	background: -moz-linear-gradient(75deg, #61799D 40%, #548FAA 60%);
+	background: -ms-linear-gradient(75deg, #61799D 40%, #548FAA 60%);
+	background: -o-linear-gradient(75deg, #61799D 40%, #548FAA 60%);
+	background: linear-gradient(75deg, #61799D 40%, #548FAA 60%);
+	height: 600px;
+	margin-top: -20px;
+}
+.login{
+	margin-top: 100px;
+}
+.HR1{
+	margin-bottom: 30px;
+	color: #fff;
+	font-size: 5.5em;
+}
+nav{
+	padding: 10px;
+	font-weight: 700;
+
+}
+.navbar-collapse li a{
+	color: #fff;
+
+}
+
+a.navbar-brand{
+	
+	font-weight: 700;
+}
+
+.jumbotron.home{
+	margin-top: 50px;
+	padding: 50px;
+	color: #777777;
+	background-color: #fff;
+	height: 400px;
+}
